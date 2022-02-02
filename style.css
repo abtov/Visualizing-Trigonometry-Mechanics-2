@@ -1,0 +1,8 @@
+#layered {
+  position:relative;
+}
+#layered > canvas {
+  position:absolute;
+  left:0;
+  top:0;
+}
